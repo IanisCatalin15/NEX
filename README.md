@@ -16,22 +16,6 @@ Unlike conventional frameworks, NEX was designed from the ground up with modern 
 - **Modern UI** - Responsive user interface system based on NUI
 - **Developer Tools** - Extensive debugging and development utilities
 
-## Project Structure
-
-```
-NEX/
-├── cfg/
-│   └── modules/     # Server-side modules configuration
-├── client/          # Client-side code
-├── lib/             # Core library files
-│   ├── user.lua     # Server-side player management
-│   └── base.lua     # Core OOP and utilities
-├── gui/             # UI files for the framework
-├── NEX.lua          # Main server initialization
-├── NEXShared.lua    # Shared resources between client/server
-└── fxmanifest.lua   # Resource manifest
-```
-
 ## Installation
 
 1. Clone this repository into your FiveM resources folder
