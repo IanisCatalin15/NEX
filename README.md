@@ -1,4 +1,5 @@
 # NEX Framework
+![NEX](https://github.com/user-attachments/assets/2883432d-493a-4921-ac27-4692839118d5)
 ## Overview
 
 NEX Framework is a powerful, object-oriented development platform for FiveM servers built with performance and flexibility in mind. Leveraging the strength of Lua OOP, NEX provides server developers with a robust foundation to create immersive, dynamic gameplay experiences without the bloat of legacy systems.
