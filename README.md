@@ -1,11 +1,4 @@
 # NEX Framework
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x200?text=NEX+Framework" alt="NEX Framework Banner" width="800"/>
-  <br>
-  <h3>Next Era eXperience - A Modern FiveM Development Framework</h3>
-</div>
-
 ## Overview
 
 NEX Framework is a powerful, object-oriented development platform for FiveM servers built with performance and flexibility in mind. Leveraging the strength of Lua OOP, NEX provides server developers with a robust foundation to create immersive, dynamic gameplay experiences without the bloat of legacy systems.
